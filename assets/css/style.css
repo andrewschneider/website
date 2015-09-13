@@ -10,8 +10,9 @@ li {
     margin: 15px;
 }
 
-a {
+li a {
   border: none;
+  font-size: 1.7rem;
 }
 
 a:hover {
