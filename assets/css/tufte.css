@@ -1,9 +1,9 @@
 /* https://github.com/daveliepmann/tufte-css */
 
 @font-face { font-family: ETBembo;
-             src: url("ETBembo-RomanLF.ttf"); }
+             src: url("/assets/fonts/ETBembo-RomanLF.ttf"); }
 @font-face { font-family: ETBembo;
-             src: url("ETBembo-DisplayItalic.ttf");
+             src: url("/assets/fonts/ETBembo-DisplayItalic.ttf");
              font-weight: normal;
              font-style: italic; }
 

@@ -1,0 +1,26 @@
+ul {
+    list-style-type: none;
+    margin: 30px 10px;
+    text-align: right;
+    width: 75%;
+}
+
+li {
+    display: inline;
+    margin: 15px;
+}
+
+a {
+  border: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+article {
+          padding: 1rem 0rem; }
+
+img {
+    mix-blend-mode: multiply;
+}
