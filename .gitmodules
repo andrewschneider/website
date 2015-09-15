@@ -1,3 +1,6 @@
 [submodule "projects/wheres_the_bus_stop"]
 	path = projects/wheres_the_bus_stop
 	url = https://github.com/andrewschneider/wheres_the_bus_stop
+[submodule "projects/nypd_sqf"]
+	path = projects/nypd_sqf
+	url = https://github.com/andrewschneider/nypd_sqf
