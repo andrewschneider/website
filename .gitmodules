@@ -5,5 +5,5 @@
 	path = projects/nypd_sqf
 	url = https://github.com/andrewschneider/nypd_sqf
 [submodule "adventure-time"]
-	path = adventure-time
+	path = projects/adventure-time
 	url = https://github.com/andrewschneider/adventure-time
