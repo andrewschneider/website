@@ -24,4 +24,7 @@ article {
 
 img {
     mix-blend-mode: multiply;
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightgrey;
 }
